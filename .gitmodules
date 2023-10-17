@@ -1,0 +1,18 @@
+[submodule "Service_Registery"]
+	path = Service_Registery
+	url = https://github.com/Karthick2412/Service_Registery
+[submodule "Auth_Service"]
+	path = Auth_Service
+	url = https://github.com/Karthick2412/Auth_Service
+[submodule "Task_Service"]
+	path = Task_Service
+	url = https://github.com/Karthick2412/Task_Service
+[submodule "Project_Service"]
+	path = Project_Service
+	url = https://github.com/Karthick2412/Project_Service
+[submodule "Api_Gateway"]
+	path = Api_Gateway
+	url = https://github.com/Karthick2412/Api_Gateway
+[submodule "Config_Service"]
+	path = Config_Service
+	url = https://github.com/Karthick2412/Config_Service
